@@ -1,3 +1,7 @@
 # Pruebas para el pull request
 
-## a propósito de actualizar el fork de otro usuario
+# Otros colaboradores: 
+Fabio de Madrid
+
+## A propósito de actualizar el fork de otro usuario.
+
